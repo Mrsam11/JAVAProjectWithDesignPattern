@@ -1,0 +1,10 @@
+Burger,350.0,34
+Pizza,999.0,28
+Biryani,200.0,95
+Pepsi,60.0,45
+7up,60.0,50
+Coke,60.0,48
+Water,50.0,50
+Sandwich,250.0,38
+Sprite,60.0,49
+Lemonade,70.0,35
